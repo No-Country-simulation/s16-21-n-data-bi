@@ -76,6 +76,8 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/?v=4" alt="Jhony" /> | Jhony Arana Carranza | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jhonyarana/)                         |
 |                               |
+| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/102852467?v=4" alt="Yesica" /> | Yesica Milagros Leon | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/yesicamilagros) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in//)                         |
+|                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/146204093?v=4" alt="Fernando" /> | Fernando Vergel | Team Leader | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/nemgf) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fernando-vergel-816930178/)                         |
 |                               |
 
