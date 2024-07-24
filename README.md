@@ -62,19 +62,9 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/101953114?v=4" alt="Gabriel" /> | Gabriel Valdez | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/GabooV2) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabdez/)                         |
 |                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/104039859?v=4" alt="Gerardo" /> | Gerardo Jose Toso | Machine Learning | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/GerardoToso) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gerardo-jose-toso/)                         |
-|                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/94810500?v=4" alt="Gonzalo" /> | Gonzalo Raffo | Data Engineer | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/goraffo) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gonzaloraffo/)                         |
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/126528222?v=4" alt="Marcelo" /> | Marcelo Ortiz | Machine Learning | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/MarceloOrtizz) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marceloortizz/)                         |
-|                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/170368578?v=4" alt="Maria" /> | Maria Hernandez | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/marih99) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in//)                         |
-|                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/123905946?v=4" alt="Mayra" /> | Mayra Sierra Torres| Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/MayraSierraAT) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayrasierraat/)                         |
-|                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/?v=4" alt="Karol" /> | Karol Vidal | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karol-vidal-66b3b5b6/)                         |
-|                               |
-| <img width="60" height="60" src="https://avatars.githubusercontent.com/u/51296177?v=4" alt="Jhony" /> | Jhony Arana Carranza | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Jharanza) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jhonyarana/)                         |
 |                               |
 | <img width="60" height="60" src="https://avatars.githubusercontent.com/u/102852467?v=4" alt="Yesica" /> | Yesica Milagros Leon | Analista de Datos | [![Github](https://skillicons.dev/icons?i=github)](https://github.com/yesicamilagros) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in//)                         |
 |                               |
