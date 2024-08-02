@@ -44,14 +44,15 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 
 ## Estructura del Proyecto
 
-- covid19-data-analysis/
+- Viralyze/
 - │
-- ├── data/                    # Directorio para los datos brutos
-- ├── notebooks/               # Jupyter Notebooks para análisis exploratorio
-- ├── scripts/                 # Scripts de análisis y visualización
-- ├── src/                     # Código fuente del proyecto
-- ├── requirements.txt         # Archivo de requisitos
+- ├── data/                    # Directorio para los datos procesados
+- ├── images/                  # Imagenes del readme
+- ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine Learning
+- ├── .gitignore               # configuracion de archivos ignorados
+- ├── app.py                   # Archivo de aplicación del deploy en Streamlit
 - ├── README.md                # Este archivo README
+- ├── requirements.txt         # Archivo de requisitos
 - └── ...
 
 ## Enlaces
