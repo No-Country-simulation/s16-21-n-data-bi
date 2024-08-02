@@ -11,8 +11,9 @@
 3. [Requisitos](#requisitos)
 4. [Instalación](#instalación)
 5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Colaboradores](#colaboradores)
-7. [Tecnologías](#tecnologías)
+6. [Reportes - Power BI](#reportes---power-bi)
+7. [Colaboradores](#colaboradores)
+8. [Tecnologías](#tecnologías)
 
 ## Descripción
 
@@ -51,6 +52,14 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 - ├── requirements.txt         # Archivo de requisitos
 - ├── README.md                # Este archivo README
 - └── ...
+
+## Reportes - Power BI
+
+<p align="center">
+  <img src="images/reporte1.jpg"  height="400">
+  <img src="images/reporte2.jpg"  height="400">
+  <img src="images/reporte3.jpg"  height="400">
+<p align="center">
 
 ## Colaboradores
 
