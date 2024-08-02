@@ -41,13 +41,10 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 
 1. Clona este repositorio:
    git clone https://github.com/No-Country-simulation/s16-21-n-data-bi
-2. Crear y activar un entorno virtual:
-   python -m venv env
-   .\env\Scripts\activate
-3. Instalar dependencias:
-   pip install -r requirements.txt
-4. Ejecuta la aplicación:
-   streamlit run app.py 
+2. Crear un entorno virtual: python -m venv env
+3. Activar el entorno virtual: .\env\Scripts\activate
+3. Instalar dependencias:    pip install -r requirements.txt
+4. Ejecuta la aplicación:   streamlit run app.py 
 
 
 ## Estructura del Proyecto
