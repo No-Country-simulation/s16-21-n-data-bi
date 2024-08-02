@@ -11,9 +11,10 @@
 3. [Requisitos](#requisitos)
 4. [Instalación](#instalación)
 5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Reportes - Power BI](#reportes---power-bi)
-7. [Colaboradores](#colaboradores)
-8. [Tecnologías](#tecnologías)
+6. [Enlaces](#enlaces)
+7. [Reportes - Power BI](#reportes---power-bi)
+8. [Colaboradores](#colaboradores)
+9. [Tecnologías](#tecnologías)
 
 ## Descripción
 
@@ -52,6 +53,12 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 - ├── requirements.txt         # Archivo de requisitos
 - ├── README.md                # Este archivo README
 - └── ...
+
+## Enlaces
+
+Deploy: https://viralyze.streamlit.app/
+
+Dashboard: https://bit.ly/Viralyze
 
 ## Reportes - Power BI
 
