@@ -1,4 +1,8 @@
-# Proyecto COVID-19 Data Analysis
+# <h1 align="center">_Viralyze_</h1>
+
+<p align="center">
+  <img src="images/portada.jpg"  height="400">
+<p align="center">
 
 ## Índice
 
