@@ -62,9 +62,15 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 
 ## Enlaces
 
+Dashboard: https://bit.ly/Viralyze
+
 Deploy: https://viralyze.streamlit.app/
 
-Dashboard: https://bit.ly/Viralyze
+<p align="center">
+  <img src="images/streamlit.gif"  height="200">
+<p align="center">
+
+
 
 ## Reportes - Power BI
 
