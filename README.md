@@ -51,13 +51,13 @@ Este proyecto tiene como objetivo analizar los datos del COVID-19 para proporcio
 
 - Viralyze/
 - │
-- ├── data/                    # Directorio para los datos procesados
-- ├── images/                  # Imagenes del readme
-- ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine Learning
-- ├── .gitignore               # configuracion de archivos ignorados
-- ├── app.py                   # Archivo de aplicación del deploy en Streamlit
-- ├── README.md                # Este archivo README
-- ├── requirements.txt         # Archivo de requisitos
+- ├── data/                    # Directorio para los datos procesados.
+- ├── images/                  # Imagenes del readme.
+- ├── Notebooks/               # Jupyter Notebooks para análisis exploratorio y Machine .Learning
+- ├── .gitignore               # configuracion de archivos ignorados.
+- ├── app.py                   # Archivo de aplicación del deploy en Streamlit.
+- ├── README.md                # Este archivo README.
+- ├── requirements.txt         # Archivo de requisitos.
 - └── ...
 
 ## Enlaces
